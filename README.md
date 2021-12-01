@@ -18,6 +18,7 @@ End the program
 
 
 ### OUTPUT:
+![output](./python3.png)
 
 
 ### RESULT:
