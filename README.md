@@ -40,3 +40,4 @@ print("{:.2f}".format(value))
 
 
 ### RESULT:
+Thus, distance between two points are calculated
