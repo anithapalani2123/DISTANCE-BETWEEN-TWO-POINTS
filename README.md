@@ -16,13 +16,19 @@ Print the coding to get the answer
 End the program 
 ### PROGRAM:
 #program to find the distance between two points
+
 #Developed by:Anitha P
+
 #Register Number:21500186
 
 import math
+
 a = [10,6]
+
 b = [4,2]
+
 value = math.sqrt(((b[0]-a[0])**2)+((b[1]-a[1])**2))
+
 print("{:.2f}".format(value))
 
   
