@@ -18,6 +18,7 @@ End the program
 #program to find the distance between two points
 #Developed by:Anitha P
 #Register Number:21500186
+
 import math
 a = [10,6]
 b = [4,2]
